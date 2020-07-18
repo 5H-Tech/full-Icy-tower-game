@@ -1,0 +1,56 @@
+﻿Build started 7/18/2020 10:37:37 AM.
+     1>Project "c:\Users\hady ahmed\documents\visual studio 2013\Projects\Icy Tower\Icy Tower\Icy Tower.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Menu.cpp "the game.cpp"
+         the game.cpp
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(63): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(64): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(107): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(195): warning C4305: '*=' : truncation from 'double' to 'float'
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(232): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(238): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(284): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(326): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(389): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(406): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(422): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(423): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(424): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(425): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(493): warning C4293: '<<' : shift count negative or too big, undefined behavior
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(685): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(692): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(698): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(725): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(731): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(732): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(753): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(754): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(755): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(756): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(757): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(758): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(778): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(779): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(780): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(781): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(807): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(807): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(735): warning C4101: 'event' : unreferenced local variable
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(681): warning C4101: 'all' : unreferenced local variable
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(879): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(976): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(1028): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(1093): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\hady ahmed\documents\visual studio 2013\projects\icy tower\icy tower\the game.cpp(1273): warning C4244: 'argument' : conversion from 'unsigned int' to 'float', possible loss of data
+         Menu.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\hady ahmed\documents\visual studio 2013\Projects\Icy Tower\Debug\Icy Tower.exe" /INCREMENTAL /NOLOGO "sfml-main-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\hady ahmed\documents\visual studio 2013\Projects\Icy Tower\Debug\Icy Tower.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\hady ahmed\documents\visual studio 2013\Projects\Icy Tower\Debug\Icy Tower.lib" /MACHINE:X86 Debug\Menu.obj
+         "Debug\the game.obj"
+         Icy Tower.vcxproj -> c:\users\hady ahmed\documents\visual studio 2013\Projects\Icy Tower\Debug\Icy Tower.exe
+     1>Done Building Project "c:\Users\hady ahmed\documents\visual studio 2013\Projects\Icy Tower\Icy Tower\Icy Tower.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.23
