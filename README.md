@@ -4,8 +4,9 @@ Icy tower game made by c++ with
 SFML library
 ## include
 the file include all the texture, photos and fonts that used in the game 
-This project has been created by a team of 3 c++ developers 
+
 ## team members are:
+ This project has been created by a team of 3 c++ developers 
 * Hady Ahmed AbdEl-slame
 
 * Hadi Atef Sayed
