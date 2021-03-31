@@ -1,5 +1,5 @@
 # full-Icy-tower-game
-❮img src="https://github.com/HadyAhmed00/full-Icy-tower-game/blob/master/readme/0.png" ❯
+https://github.com/HadyAhmed00/full-Icy-tower-game/blob/master/readme/0.png
 Icy tower game made by c++ with 
 ## Using
 SFML library
