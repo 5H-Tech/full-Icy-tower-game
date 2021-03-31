@@ -16,10 +16,13 @@ the file include all the texture, photos and fonts that used in the game
 
 ## themes :
  * theme 1 with character 1
+ 
 ![Banner](https://github.com/HadyAhmed00/full-Icy-tower-game/blob/master/readme/1.png)
 * theme 2 with character 2
+
  ![Banner](https://github.com/HadyAhmed00/full-Icy-tower-game/blob/master/readme/2.png)
 * theme 3 with character 3
+
  ![Banner](https://github.com/HadyAhmed00/full-Icy-tower-game/blob/master/readme/3.png)
 
 ## team members:
@@ -29,3 +32,10 @@ the file include all the texture, photos and fonts that used in the game
 * Hady Atef Sayed
 
 * Hady Ehab Ragaa
+
+
+<br>
+
+## you can see the game demo from [here](https://www.facebook.com/events/351921035768252/?post_id=355354392091583&view=permalink)
+
+<br>
