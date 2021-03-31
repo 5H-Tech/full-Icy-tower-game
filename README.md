@@ -1,4 +1,4 @@
-❮img src="readme/0.png" ❯
+❮img src="full-Icy-tower-game/readme/0.png" ❯
 # full-Icy-tower-game
 Icy tower game made by c++ with 
 ## Using
