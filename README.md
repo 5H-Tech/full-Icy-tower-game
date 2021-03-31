@@ -1,5 +1,5 @@
-![Uploading 1.png…]()
 # full-Icy-tower-game
+  ❮img src="readme/0.png" ❯
 Icy tower game made by c++ with 
 ## Using
 SFML library
