@@ -1,20 +1,20 @@
 # full-Icy-tower-game
 ![Banner](https://github.com/HadyAhmed00/full-Icy-tower-game/blob/master/readme/0.png)
 
-* Icy tower game made by c++ 
+* Icy tower game made with C++ language 
 ## Using
 SFML library
 ## include
-the file include all the texture, photos and fonts that used in the game 
+The file includes all textures, photos and fonts used in the game 
 
 ## Features:
-* 3 theme
-* each theme have a different character
-* power jump
-* Animations in the movement 
-* record of the highest score
+* 3 themes
+* Each theme has a different character
+* Power jump
+* Movements animation 
+* The highest score is recorded
 
-## themes :
+## Themes :
  * theme 1 with character 1
  
 ![Banner](https://github.com/HadyAhmed00/full-Icy-tower-game/blob/master/readme/1.png)
@@ -25,13 +25,13 @@ the file include all the texture, photos and fonts that used in the game
 
  ![Banner](https://github.com/HadyAhmed00/full-Icy-tower-game/blob/master/readme/3.png)
 
-## team members:
- This project has been created by a team of 3 c++ developers 
-* Hady Ahmed AbdEl-slame
+## Team members:
+ This project has been created by a team of 3 C++ developers 
+* Hadi Ahmed AbdEl-slame
 
-* Hady Atef Sayed
+* Hadi Atef Sayed
 
-* Hady Ehab Ragaa
+* Hadi Ehab Ragaa
 
 
 <br>
